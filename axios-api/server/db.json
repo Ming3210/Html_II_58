@@ -1,0 +1,49 @@
+{
+  "students": [
+    {
+      "id": 3,
+      "student_name": "Chinh",
+      "email": "chinkngu@gmail.com",
+      "address": "HCM",
+      "phone": "0355129455",
+      "status": true,
+      "created_at": "20/10/2021"
+    },
+    {
+      "id": 5,
+      "student_name": "Thach",
+      "email": "D4Thach@gmail.com",
+      "address": "TH",
+      "phone": "0355129455",
+      "status": true,
+      "created_at": "20/10/2021"
+    },
+    {
+      "id": 1,
+      "student_name": "Thach",
+      "email": "D4Thach@gmail.com",
+      "address": "TH",
+      "phone": "0355129455",
+      "status": true,
+      "created_at": "20/10/2021"
+    },
+    {
+      "id": 2,
+      "student_name": "Thach",
+      "email": "D4Thach@gmail.com",
+      "address": "TH",
+      "phone": "0355129455",
+      "status": true,
+      "created_at": "20/10/2021"
+    },
+    {
+      "id": 1.8926719063054143e+22,
+      "student_name": "Minh",
+      "email": "vminh0227@gmail.com",
+      "address": "Đông Tiến",
+      "phone": "0355129455",
+      "status": true,
+      "created_at": ""
+    }
+  ]
+}
